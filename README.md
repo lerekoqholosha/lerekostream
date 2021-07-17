@@ -16,3 +16,6 @@ streamlit run streamlitapp_py.py`
 
     Local URL: http://localhost:8501
     Network URL: http://192.168.43.41:8501
+    
+    ![image](https://user-images.githubusercontent.com/68995151/126038982-85b02a58-c458-4961-9e77-7c63d55cb6a9.png)
+
