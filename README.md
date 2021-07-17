@@ -11,7 +11,7 @@ conda install -c conda-forge scikit-surprise`
 
 `git clone https://github.com/{your account name}/lerekostream.git`
 
-`cd Streamlit-app/
+`cd lerekostream/
 streamlit run streamlitapp_py.py`
 
   You can now view your Streamlit app in your browser.
