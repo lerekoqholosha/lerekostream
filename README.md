@@ -19,5 +19,5 @@ streamlit run streamlitapp_py.py`
     
     
     
-    ![image](https://user-images.githubusercontent.com/68995151/126038982-85b02a58-c458-4961-9e77-7c63d55cb6a9.png)
+   
 
