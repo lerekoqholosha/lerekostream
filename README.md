@@ -2,12 +2,10 @@
 This a streamlit app for Iris datasets
 # Streamlit-app
 
-This an basic streamlit app
 
 create by 'lerekoqholosha'
 
-`pip install -U streamlit numpy pandas scikit-learn
-conda install -c conda-forge scikit-surprise`
+`pip install -U streamlit numpy pandas scikit-learn`
 
 `git clone https://github.com/{your account name}/lerekostream.git`
 
