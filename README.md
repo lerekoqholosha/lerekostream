@@ -9,10 +9,10 @@ create by 'lerekoqholosha'
 `pip install -U streamlit numpy pandas scikit-learn
 conda install -c conda-forge scikit-surprise`
 
-`git clone https://github.com/{your account name}/Streamlit-app.git`
+`git clone https://github.com/{your account name}/lerekostream.git`
 
 `cd Streamlit-app/
-streamlit run streamlit_py.py`
+streamlit run streamlitapp_py.py`
 
   You can now view your Streamlit app in your browser.
 
