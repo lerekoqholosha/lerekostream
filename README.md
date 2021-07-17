@@ -3,7 +3,7 @@ This is  a streamlit app for Iris datasets
 # Streamlit-app
 
 
-create by 'lerekoqholosha'
+create by `lerekoqholosha`
 
 `pip install -U streamlit numpy pandas scikit-learn`
 
