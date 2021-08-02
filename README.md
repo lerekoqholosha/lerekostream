@@ -2,7 +2,7 @@
 This is  a streamlit app for Iris datasets
 # Streamlit-app
 
-. This is astreamlit-app for Iris datasets
+. This is a streamlit-app for Iris datasets
 
 . we start with Importing libraries
 
