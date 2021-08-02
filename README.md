@@ -8,7 +8,7 @@ This is  a streamlit app for Iris datasets
 
 . Training model
 
-. Buidlind app
+. Building app
 
 `Please follow this steps to run the app on your terminal `
 
