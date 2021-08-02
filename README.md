@@ -2,6 +2,15 @@
 This is  a streamlit app for Iris datasets
 # Streamlit-app
 
+. This is astreamlit-app for Iris datasets
+
+. we start with Importing libraries
+
+. Training model
+
+. Buidlind app
+
+`Please follow this steps to run the app on your terminal `
 
 create by `lerekoqholosha`
 
